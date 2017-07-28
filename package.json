@@ -1,0 +1,24 @@
+{
+  "name": "weicantime-demos",
+  "version": "1.0.0",
+  "description": "demos",
+  "main": "index.js",
+  "homepage": "https://kmkm007.github.io/weicantimes-demos/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KmKm007/weicantimes-demos.git"
+  },
+  "author": "KmKm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KmKm007/weicantimes-demos/issues"
+  },
+  "homepage": "https://github.com/KmKm007/weicantimes-demos#readme",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
