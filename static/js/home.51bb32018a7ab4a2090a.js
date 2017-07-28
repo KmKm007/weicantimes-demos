@@ -1,2 +1,1 @@
 webpackJsonp([3],{104:function(n,o){var t=window.location.pathname,a=t.split("/");"/"!==t&&2===a.length&&(window.location.href=a[1]+".html")}},[104]);
-//# sourceMappingURL=home.51bb32018a7ab4a2090a.js.map
